@@ -33,11 +33,11 @@ Twinkle, twinkle, little star,
     
 7. Write a Python program to calculate the hypotenuse of a right angled triangle.Both Base and Height will be provided by user.
 
-![python-basic-image-exercise-60.png](CnD%20Test%20e5661caa64bf4b4591a5ae61f3828d26/python-basic-image-exercise-60.png)
+![python-basic-image-exercise-60.png](img/python-basic-image-exercise-60.png)
 
 8. Write a Python program to convert pressure in kilopascals to pounds per square inch,a millimeter of mercury (mmHg) and atmosphere pressure.
     
-    ![python-basic-image-exercise-67.png](CnD%20Test%20e5661caa64bf4b4591a5ae61f3828d26/python-basic-image-exercise-67.png)
+    ![python-basic-image-exercise-67.png](img/python-basic-image-exercise-67.png)
     
  9. Write a Python program to calculate the midpoints of a line.
  10. Write a Python program to sort three integers without using conditional statements and loops.
@@ -48,7 +48,7 @@ Twinkle, twinkle, little star,
      
      output: 60
      
-     ![python-basic-image-exercise-82.png](CnD%20Test%20e5661caa64bf4b4591a5ae61f3828d26/python-basic-image-exercise-82.png)
+     ![python-basic-image-exercise-82.png](img/python-basic-image-exercise-82.png)
      
  
  13. Write a Python program to count the number of strings from a given list of strings if the string length is 2 or more and the first and last characters are the same.
@@ -77,13 +77,13 @@ Twinkle, twinkle, little star,
      
      Expected Output: [['a', 'd', 'g', 'j', 'm'], ['b', 'e', 'h', 'k', 'n'], ['c', 'f', 'i', 'l']]
      
-     ![Python-data-type-list-excercise-51.png](CnD%20Test%20e5661caa64bf4b4591a5ae61f3828d26/Python-data-type-list-excercise-51.png)
+     ![Python-data-type-list-excercise-51.png](img/Python-data-type-list-excercise-51.png)
      
  18. Write a Python program to concatenate elements of the given list.
      
      color_list = ['red', 'green', 'orange']
      
-     ![Python-data-type-list-excercise-54.png](CnD%20Test%20e5661caa64bf4b4591a5ae61f3828d26/Python-data-type-list-excercise-54.png)
+     ![Python-data-type-list-excercise-54.png](img/Python-data-type-list-excercise-54.png)
      
  19. Write a Python program to insert a given string at the beginning of all items in a list.
      
